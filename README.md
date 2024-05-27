@@ -1,4 +1,4 @@
-## Olá, meu nome é Victor !
+<h2>Olá, meu nome é Victor !</h2>
 <div>
    - 👨🏽‍🎓 Sou um estudante de Engenharia de Computação.<br><br>
    - 🖥️ Minha especialidade é Desenvolvimento Web e aplicações no geral.<br><br>
@@ -6,13 +6,13 @@
 
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=filgueira5&show_icons=true&theme=radical)
 </div>
-## Maneiras a Contactar :
+<h2></h2>Maneiras a Contactar :</h2>
 <div>
    <a href="https://instagram.com/dev.filgueiras?igsh=eHExc3NiaTZqdm0w"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
    <a href="https://github.com/filgueira5"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
    <a href="mailto:dev.filgueiras@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
-<h1>Linguagens que eu uso.</h1>
+<h2>Linguagens que eu uso.</h2>
 <div>
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
