@@ -1,4 +1,4 @@
-<h2>Olá, meu nome é Victor !</h2>
+<h2>Olá, meu nome é Victor,</h2>
 <div>
    - 👨🏽‍🎓 Sou um estudante de Engenharia de Computação.<br><br>
    - 🖥️ Minha especialidade é Desenvolvimento Web e aplicações no geral.<br><br>
