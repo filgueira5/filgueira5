@@ -1,6 +1,11 @@
 ## Olá, meu nome é Victor !
-- 👨🏽‍🎓 Este é o repositório que contém informações sobre mim, [Seu Nome], um programador web apaixonado por criar soluções criativas e eficientes para problemas complexos.
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=filgueira5&show_icons=true&theme=radical)
+<div>
+   - 👨🏽‍🎓 Sou um estudante de Engenharia de Computação.
+   - 🖥️ Minha especialidade é Desenvolvimento Web e aplicações no geral.
+   - 🤯 Estou constantemente buscando aprender novas tecnologias e aprimorar minhas habilidades de programação.
+
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=filgueira5&show_icons=true&theme=radical)
+</div>
 ## Maneiras a Contactar :
 <div>
    <a href="https://instagram.com/dev.filgueiras?igsh=eHExc3NiaTZqdm0w"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
