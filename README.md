@@ -1,8 +1,8 @@
 ## Olá, meu nome é Victor !
 <div>
-   - 👨🏽‍🎓 Sou um estudante de Engenharia de Computação.
-   - 🖥️ Minha especialidade é Desenvolvimento Web e aplicações no geral.
-   - 🤯 Estou constantemente buscando aprender novas tecnologias e aprimorar minhas habilidades de programação.
+   - 👨🏽‍🎓 Sou um estudante de Engenharia de Computação.<br>
+   - 🖥️ Minha especialidade é Desenvolvimento Web e aplicações no geral.<br>
+   - 🤯 Estou constantemente buscando aprender novas tecnologias e aprimorar minhas habilidades de programação.<br>
 
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=filgueira5&show_icons=true&theme=radical)
 </div>
