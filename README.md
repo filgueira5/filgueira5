@@ -1,3 +1,4 @@
-## Olá, meu nome é Victor
+## Olá, meu nome é Victor 😁 
+- 👨🏽‍🎓 Sou estudante de Engenharia da Computação e Desenvolvedor Web.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=filgueira5&show_icons=true&theme=radical)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filgueira5)](https://github.com/filgueira5/github-readme-stats)
