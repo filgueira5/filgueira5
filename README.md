@@ -1,5 +1,5 @@
 ## Olá, meu nome é Victor !
-- 👨🏽‍🎓 Sou estudante de Engenharia da Computação e Desenvolvedor Web.
+- 👨🏽‍🎓 Este é o repositório que contém informações sobre mim, [Seu Nome], um programador web apaixonado por criar soluções criativas e eficientes para problemas complexos.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=filgueira5&show_icons=true&theme=radical)
 ## Maneiras a Contactar :
 <div>
@@ -15,4 +15,13 @@
    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+</div>
+
+<div>
+   ## Projetos Destacados
+
+- **Projeto 1:** Breve descrição ou link para o projeto.
+- **Projeto 2:** Breve descrição ou link para o projeto.
+- **Projeto 3:** Breve descrição ou link para o projeto.
+
 </div>
